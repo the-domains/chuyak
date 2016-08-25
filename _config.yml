@@ -1,0 +1,14 @@
+layout_spectrum: 0.9763470669277012
+typography_spectrum: 0.2989506016019732
+color:
+  brandStrength: 0.34063500189222395
+  lightness: 0.4959778340999037
+  saturation: 0.46309502120129764
+  rhythmicContrast: 0.6309268572367728
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: chuyak
