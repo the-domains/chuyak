@@ -16,4 +16,7 @@ navigation:
   - name: Rodger
     url: 'http://www.chuyak.com'
     type: external
+  - name: Los Andes
+    id: 31a786f8-4110-4600-b379-30ae3f504894
+    type: content
 title: La Musica de Latinoamerica
