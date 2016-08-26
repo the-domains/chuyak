@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-25T21:42:26.905Z'
+datePublished: '2016-08-25T21:58:15.072Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera
-hasPage: false
+hasPage: true
 keywords:
   - lytro
   - cameras
@@ -20,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T21:42:26.470Z'
+dateModified: '2016-08-25T21:58:14.545Z'
 title: Los Andes
 app_links: []
 publisher: {}
@@ -33,6 +31,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: los-andes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
