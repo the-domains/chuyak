@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chuyak]]></title>
-        <description><![CDATA[chuyak]]></description>
+        <title><![CDATA[La Musica de Latinoamerica]]></title>
+        <description><![CDATA[La Musica de Latinoamerica]]></description>
         <link>https://thegrid.ai/chuyak/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 21:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 21:42:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chuyak/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Los Andes]]></title>
-            <description><![CDATA[<article><h1>Los Andes</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f53d675-c2b5-4060-9446-8a9b623bee8b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Los Andes</h1><p>The haunting sounds of bamboo pipes have formed a part of the Andean landscape for over two millennia. The Andean melodies most people are exposed to today, however, are a result of centuries of colonialism and the migrations of peoples from different regions and continents. Let’s take a look at how all this happened.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f53d675-c2b5-4060-9446-8a9b623bee8b.jpg"></article>]]></description>
             <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
             <guid isPermaLink="false">31a786f8-4110-4600-b379-30ae3f504894</guid>
-            <pubDate>Thu, 25 Aug 2016 21:31:43 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2016 21:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b65e60d-d6b2-4047-978f-f4977c98c8f2.jpg">]]></description>
+            <link>https://thegrid.ai/chuyak/75507de8-041a-4af6-bc3d-d21d94c8bc80/index.html</link>
+            <guid isPermaLink="false">75507de8-041a-4af6-bc3d-d21d94c8bc80</guid>
+            <pubDate>Thu, 25 Aug 2016 21:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
