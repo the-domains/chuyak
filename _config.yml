@@ -19,4 +19,7 @@ navigation:
   - name: Los Andes
     id: 31a786f8-4110-4600-b379-30ae3f504894
     type: content
+  - name: Los Inkas
+    id: 75507de8-041a-4af6-bc3d-d21d94c8bc80
+    type: content
 title: La Musica de Latinoamerica
